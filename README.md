@@ -1,6 +1,5 @@
-# helloworld
- Netflix should hire me UWU
-
+# Netflix should hire me UWU
+ 
  My Netflix clone website
  
  https://andreimandrique.github.io/helloworld/
